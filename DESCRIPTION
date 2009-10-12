@@ -1,7 +1,7 @@
 Package: hapmap100khind
 Type: Package
 Title: Sample data - Hapmap 100K HIND Affymetrix
-Version: 1.3.d32
+Version: 1.3.32
 Date: 2007-03-03
 Author: Hapmap Consortium
 Suggests: oligo
